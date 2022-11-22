@@ -1,2 +1,2 @@
 # Shop_Testing_with_jUnit
-![Screenshot](screenshot.png)
+[Screenshot](screenshot.png)
